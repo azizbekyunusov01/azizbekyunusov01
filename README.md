@@ -14,7 +14,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
+- :computer: I'm currently working on React
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: Do Bodybuilding & Calisthenics
