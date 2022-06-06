@@ -4,7 +4,7 @@
 
 I am Azizbek Yunusov  21 years old, I am learning Web programming, now I am a Frontent programmer </br>
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-azizbek-yunusov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azizbek-yunusov-100845186/)](https://www.linkedin.com/in/azizbek-yunusov-b89089237/)  -->
+[![Linkedin Badge](https://img.shields.io/badge/-azizbek-yunusov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azizbek-yunusov-b89089237/)](https://www.linkedin.com/in/azizbek-yunusov-b89089237/) 
 [![Facebook Badge](https://img.shields.io/badge/-@azizbek_yunusov-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
 [![Instagram Badge](https://img.shields.io/badge/-@azizbek_yunusov-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/azizbek_yunusov01/)
 [![Telegram Badge](https://img.shields.io/badge/@azizbek_yunusov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Azizbek_Yunusov)](https://t.me/Azizbek_Yunusov) 
