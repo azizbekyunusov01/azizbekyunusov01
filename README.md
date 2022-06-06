@@ -4,8 +4,6 @@
 
 I am Azizbek Yunusov  21 years old, I am learning Web programming, now I am a Frontent programmer </br>
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-azizbek-yunusov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azizbek-yunusov-100845186/)](https://www.linkedin.com/in/azizbek-yunusov-b89089237/)  -->
 [![Facebook Badge](https://img.shields.io/badge/-@azizbek_yunusov-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
 [![Instagram Badge](https://img.shields.io/badge/-@azizbek_yunusov-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/azizbek_yunusov01/)
