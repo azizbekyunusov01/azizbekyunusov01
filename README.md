@@ -1,6 +1,6 @@
 <h1 align="center">Azizbek Yunusov - The Frontend Developer</h1>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px" height="20px">
 
 I am Azizbek Yunusov  21 years old, I am learning Web programming, now I am a Frontent programmer </br>
 
