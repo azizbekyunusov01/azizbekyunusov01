@@ -9,7 +9,7 @@ I am Azizbek Yunusov  21 years old, I am learning Web programming, now I am a Fr
 [![Instagram Badge](https://img.shields.io/badge/-@azizbek_yunusov-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/azizbek_yunusov01/)
 [![Telegram Badge](https://img.shields.io/badge/@azizbek_yunusov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Azizbek_Yunusov)](https://t.me/Azizbek_Yunusov) 
 
-<img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
